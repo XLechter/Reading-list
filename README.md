@@ -1,4 +1,4 @@
 # Reading-list
 
-## 3D Vision
-* **PointNet**: PointNet:Deep Learning on Point Sets for 3D Classification and Segmentation. CVPR 2019
+## Point Completion
+* A Self-supervised Cascaded Refinement Network for Point Cloud Completion. CVPR 2020. [code](https://github.com/xiaogangw/cascaded-point-completion)
